@@ -1,4 +1,4 @@
-# python3 learning
+# Python3 learning
 
 This repo will have my python3 learnings,data structures and algorithms stuff.
 
