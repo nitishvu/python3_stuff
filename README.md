@@ -7,6 +7,8 @@ Note: If you think this can/should be better feel free to update.
 ## Python 3 Topics
 
 #### 1. [String interpolations](https://github.com/nitishvu/python3_stuff/tree/master/py3_concepts/String_Interpolation.py)
+#### 2. [Python3 sets ](https://github.com/nitishvu/python3_stuff/tree/master/py3_concepts/python3_sets.py)
+
 
 ## Data structures and algorithms Topics:
 
