@@ -7,6 +7,12 @@ unorldered list,mutalble,no duplicates
 2.Frozen sets = forzenset()
 immutable,unordered
 
+
+Note:
+You can't put a set in a set because sets can only contain immutable (hashable) types.
+You can convert your set to a tuple or a frozenset to make it immutable and qualify for being put into a set.
+
+
 Note:Set items cannot be accessed by referring to an index,
 since sets are unordered the items has no index.
 But you can loop through the set items using a for loop
