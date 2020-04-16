@@ -1,20 +1,17 @@
 '''
-Python map() function is used to apply a function on all the elements
-of specified iterable and return map object. 
+Python map() function is used to apply a function on all the elements of specified iterable and returns a map object. 
 Python map object is an iterator,so we can iterate over its elements.
-We can also convert map object to sequence objects such as list, tuple etc. using their factory functions.
+We can also convert map object to sequence objects such as list, tuple,set etc.
 
 Syntax :
 
 map( my_func, ,my_iter)
 
-my_func :  function to which map passes each element of given iterable.
-my_iter : iterable which is to be mapped.
+my_func :  Function to which map passes each item of given iterable .
+my_iter :  Iterable which is to be mapped.
 
 
 '''
-
-#Python map() with string
 
 #iterable lets take a list
 my_iter = [1, 2, 3, 4]
