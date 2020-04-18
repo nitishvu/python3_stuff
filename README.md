@@ -10,7 +10,7 @@ Note: If you think this can/should be better feel free to update.
 
 #### 2. [Python3 set ](https://github.com/nitishvu/python3_stuff/tree/master/py3_concepts/python3_sets.py)
 
-#### 2. [Python3 map ](https://github.com/nitishvu/python3_stuff/tree/master/py3_concepts/python3_maps.py)
+#### 3. [Python3 map ](https://github.com/nitishvu/python3_stuff/tree/master/py3_concepts/python3_maps.py)
 
 ## Data structures and algorithms Topics:
 
