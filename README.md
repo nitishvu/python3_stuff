@@ -17,8 +17,13 @@ Note: If you think this can/should be better feel free to update.
 
 ### Recursion topics
 
-#### 1. [Recursion](https://github.com/nitishvu/python3_stuff/tree/master/Recursion)
+#### 1. [Recursion](https://github.com/nitishvu/python3_stuff/tree/master/algorithms/Recursion)
 
-#### 2. [Recursion + Memoization](https://github.com/nitishvu/python3_stuff/tree/master/Recursion/fibonacci.py)
+#### 2. [Backtraking](https://github.com/nitishvu/python3_stuff/tree/master/algorithms/Backtracking/)
 
-#### 3. [Backtraking](https://github.com/nitishvu/python3_stuff/tree/master/Recursion/backtraking/)
+#### 2. [Dynamic Programming](https://github.com/nitishvu/python3_stuff/tree/master/algorithms/dynamic_programming)
+
+## Interview questions company wise
+
+#### 1. [Google](https://github.com/nitishvu/python3_stuff/tree/master/google)
+
