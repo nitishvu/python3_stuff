@@ -15,15 +15,13 @@ Note: If you think this can/should be better feel free to update.
 
 #### 5. [Python3 file operations ](https://github.com/nitishvu/python3_stuff/tree/master/file_ops)
 
-## Data structures and algorithms Topics:
-
-### Recursion topics
+## Data structures and algorithms:
 
 #### 1. [Recursion](https://github.com/nitishvu/python3_stuff/tree/master/algorithms/Recursion)
 
 #### 2. [Backtraking](https://github.com/nitishvu/python3_stuff/tree/master/algorithms/Backtracking/)
 
-#### 2. [Dynamic Programming](https://github.com/nitishvu/python3_stuff/tree/master/algorithms/dynamic_programming)
+#### 3. [Dynamic Programming](https://github.com/nitishvu/python3_stuff/tree/master/algorithms/dynamic_programming)
 
 ## Interview questions company wise
 
