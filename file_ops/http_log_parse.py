@@ -1,3 +1,7 @@
+'''
+printing all ips in httpd log
+'''
+
 import re
 
 fd = open('httpd.log','r')

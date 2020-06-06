@@ -1,5 +1,13 @@
+'''
+print all file in a directory recursively
+'''
 
 from os import path,listdir,walk
+
+'''
+method one using list dir
+'''
+
 dir1="/home/nitish/workspace/python3_stuff"
 
 def print_all_files(dir1,full_path):
@@ -22,6 +30,11 @@ print_all_files(dir1,dir1)
 print('*'*50)
 print("Now walk")
 print('*'*50)
+
+'''
+method 2 using walk
+'''
+
 for root,d_names,f_names in walk(dir1):
 	#print (root, d_names, f_names)
     if not('.git' in root): 
