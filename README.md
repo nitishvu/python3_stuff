@@ -13,6 +13,8 @@ Note: If you think this can/should be better feel free to update.
 #### 3. [Python3 map ](https://github.com/nitishvu/python3_stuff/tree/master/py3_concepts/python3_maps.py)
 #### 4. [Python3 iterator ](https://github.com/nitishvu/python3_stuff/tree/master/py3_concepts/your_own_Iterator.py)
 
+#### 5. [Python3 file operations ](https://github.com/nitishvu/python3_stuff/tree/master/file_ops)
+
 ## Data structures and algorithms Topics:
 
 ### Recursion topics
