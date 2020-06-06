@@ -21,10 +21,11 @@ def track(input1,partial,used,result):
         #print(partial,i)
         used[i] = False
         partial = partial[:-1]
+    return result
 
     
 result=[]
-track(input1,partial,used,result)
+result = track(input1,partial,used,result)
 print(result)
 print(len(result))
 
